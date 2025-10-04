@@ -10,7 +10,6 @@ Steganography in cybersecurity refers to the practice of hiding secret informati
 1. Secure communication: Steganography can be used to protect sensitive information from interception or eavesdropping.
 2. Digital watermarking: Steganography can be used to embed hidden signatures or watermarks in digital media.
 3. Malware detection evasion: Steganography can be used by attackers to hide malware or malicious code.
-****Detection**
 1. Statistical analysis
 Steganalysis techniques can be used to detect hidden messages or anomalies in digital media.
 2. Machine learning: AI-powered tools can be trained to detect steganographic patterns or anomalies.
